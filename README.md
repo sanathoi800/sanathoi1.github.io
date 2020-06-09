@@ -1,9 +1,9 @@
 # sanathoi1.github.io
 <center><h1>WELCOME TO MY FIRST WEBPAGE</H1>
-  <h1>Let me introduce myself</h1>
   </center>
   <hr>
-<h2>Hello everyone..</h2><br>
+<h2>Let me introduce myself<br>
+  Hello everyone..</h2><br>
 I am Haorokcham Sanathoi<br>
 class:8, Roll no:30<br>
 school:Mother's Pride Academy<br>
