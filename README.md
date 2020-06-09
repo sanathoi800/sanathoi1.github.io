@@ -5,8 +5,7 @@
   <hr>
 <h2>Hello everyone..<br>
 I am Haorokcham Sanathoi<br>
-class:8<br>
-Roll no:30<br>
+class:8, Roll no:30<br>
 school:Mother's Pride Academy<br>
 address:Bishnupur,Manipur<br>
 email:haorokchamsanathoi13@gmail.com<br></h2>
