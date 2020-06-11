@@ -19,7 +19,6 @@ My hobby is gardening...
     <br>
     <a href="https://www.countryliving.com/gardening/">Visit for all your requirements of gardening</a><br>
   <h3>Among the flowers I love the ROSES most</h3>
-  ![gardening](https://www.verywellfamily.com/family-garden-to-improve-health-4127202.jpg)
-
+The reason being roses are literally the queen of flowers. We all love and appreciate their beauty. They send a strong message of love, possess a heavenly scent, and have breathtaking colors.But besides representing something pristine and lovely, roses can impart a lot of wisdom on us. Just as a rosebud opens up into a beautiful bloom under the right conditions, we should also find what we need to make our dreams flourish.We should develop the ability to survive and become strong just like the rose grows thorns to protect itself from harm. As you work towards your goals and dreams, you should enjoy your journey as much as the destination, seeing as to how the rose is beautiful at each stage of its life cycle. Roses require pruning to allow them to thrive. Similarly, we must embrace the seasons of “pruning” in our lives to encourage new growth and help us move forward.
 THANKING YOU..!!! HOPE YOU ENJOYED.
 </html>
