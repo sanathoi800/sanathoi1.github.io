@@ -11,14 +11,15 @@ school:Mother's Pride Academy<br>
 address:Bishnupur,Manipur<br>
 email:haorokchamsanathoi13@gmail.com<br>
   <hr>
-I would like to tell about my hobby. Before going further, hobby can be defined as an activity, interest, or pastime that is undertaken for pleasure or relaxation, done during one's own time. 
+<p style="background-color:MediumSeaGreen;"> I would like to tell about my hobby. Before going further, hobby can be defined as an activity, interest, or pastime that is undertaken for pleasure or relaxation, done during one's own time.</p>
     <br>
 My hobby is gardening...
     <br>
 <p style="background-color:Tomato;"> Gardening is the practice of growing and cultivating plants as part of horticulture. In gardens, ornamental plants are often grown for their flowers, foliage, or overall appearance; useful plants, such as root vegetables, leaf vegetables, fruits, and herbs, are grown for consumption, for use as dyes, or for medicinal or cosmetic use. Gardening is considered by many people to be a relaxing activity.</p>
     <br>
-    <a href="https://www.countryliving.com/gardening/">Visit for all your requirements of gardening</a>
-![gardening](https://www.verywellfamily.com/family-garden-to-improve-health-4127202.jpg)
+    <a href="https://www.countryliving.com/gardening/">Visit for all your requirements of gardening</a><br>
+  <h3>Among the flowers I love the ROSES most</h3>
+  ![gardening](https://www.verywellfamily.com/family-garden-to-improve-health-4127202.jpg)
 
 THANKING YOU..!!! HOPE YOU ENJOYED.
 </html>
