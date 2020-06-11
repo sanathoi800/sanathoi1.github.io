@@ -1,7 +1,6 @@
 # sanathoi1.github.io
 <html>
-  <BODY BGCOLOR="#aacc22">
-<center><h1>WELCOME TO MY FIRST WEBPAGE</H1>
+<center><h1 style="background-color:DodgerBlue;">WELCOME TO MY FIRST WEBPAGE</H1>
   </center>
   <hr>
 <h2>Let me introduce myself<br>
