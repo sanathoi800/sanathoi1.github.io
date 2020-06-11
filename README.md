@@ -12,7 +12,7 @@ school:Mother's Pride Academy<br>
 address:Bishnupur,Manipur<br>
 email:haorokchamsanathoi13@gmail.com<br>
   <hr>
-I would like to tell about my hobby. Before that, hobby can be defined as an activity, interest, or pastime that is undertaken for pleasure or relaxation, done during one's own time. 
+I would like to tell about my hobby. Before going further, hobby can be defined as an activity, interest, or pastime that is undertaken for pleasure or relaxation, done during one's own time. 
     <br>
 My hobby is gardening...
     <br>
