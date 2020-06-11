@@ -1,5 +1,6 @@
 # sanathoi1.github.io
-<BODY BGCOLOR="#aacc22">
+<html>
+  <BODY BGCOLOR="#aacc22">
 <center><h1>WELCOME TO MY FIRST WEBPAGE</H1>
   </center>
   <hr>
@@ -12,8 +13,12 @@ address:Bishnupur,Manipur<br>
 email:haorokchamsanathoi13@gmail.com<br>
   <hr>
 I would like to tell about my hobby. Before that, hobby can be defined as an activity, interest, or pastime that is undertaken for pleasure or relaxation, done during one's own time. 
+    <br>
 My hobby is gardening...
+    <br>
 Gardening is the practice of growing and cultivating plants as part of horticulture. In gardens, ornamental plants are often grown for their flowers, foliage, or overall appearance; useful plants, such as root vegetables, leaf vegetables, fruits, and herbs, are grown for consumption, for use as dyes, or for medicinal or cosmetic use. Gardening is considered by many people to be a relaxing activity.
+    <br>
 ![gardening](https://www.verywellfamily.com/family-garden-to-improve-health-4127202.jpg)
 
 THANKING YOU..!!! HOPE YOU ENJOYED.
+</html>
